@@ -2,6 +2,8 @@
 
 An application built using streamlit which predicts the chance of having PCOS based on various parameters.
 
+https://share.streamlit.io/ranilakshmi/pcos-prediction/main/app.py
+
 ## About PCOS
 Polycystic Ovary Syndrome (PCOS) is a common hormonal disorder among women.
 
